@@ -17,6 +17,7 @@
 			$output = shell_exec('python3 downloader.py '.escapeshellarg($ESN).' '.escapeshellarg($numberOfFrame).' '.escapeshellarg($start).' '.escapeshellarg($end).' '.escapeshellarg($timelapseType).' '.escapeshellarg($frameType) );
 		}*/
 
-		header("Location:https://owang00.github.io/results.html");
+		# header("Location:https://owang00.github.io/results.html");
 	}
+	header("Location:https://owang00.github.io/results.html");
 ?>
