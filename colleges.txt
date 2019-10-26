@@ -1,0 +1,359 @@
+Abilene Christian University	South	510–620	520–600	1030–1220	21–26
+Adelphi University	Mid-Atlantic	540–630	540–640	1080–1270	22–27	
+Agnes Scott College	South	570–690	520–640	1090–1320	23–29	
+Albion College	Midwest	510–630	500–610	1010–1240	20–26	
+Allegheny College	Mid-Atlantic	560–680	560–660	1120–1340	24–30	
+American University	Mid-Atlantic	630–700	590–680	1220–1380	27–31	
+Amherst College	New England	720–770	710–790	1430–1560	32–34	
+Appalachian State University	South	560–640	540–630	1100–1270	23–27	
+Arizona State University, ​Tempe	West	570–670	560–690	1130–1360	22–29	
+Auburn University	South	580–650	570–660	1150–1310	25–30	
+Augustana College	Midwest	550–640	570–700	1120–1340	23–28	
+Austin College	South	570–670	560–660	1130–1330	22–27	
+Babson College	New England	610–680	620–730	1230–1410	27–32	
+Baldwin Wallace University	Midwest	520–640	510–610	1030–1250	21–27	
+Bard College	Mid-Atlantic	600–700	570–680	1170–1380	28–31	
+Barnard College	Mid-Atlantic	670–740	660–760	1330–1500	30–33	
+Bates College	New England	640–720	650–740	1290–1460	29–32	
+Baylor University	South	600–680	590–690	1190–1370	26–31	
+Beloit College	Midwest	570–670	550–690	1120–1360	21–29	
+Bennington College	New England	620–710	590–680	1210–1390	27–31	
+Bentley University	New England	590–670	620–710	1210–1380	27–31	
+Berea College	South	480–590	490–610	970–1200	22–27	
+Berry College	South	570–660	550–640	1120–1300	24–29	
+Binghamton University, SUNY	Mid-Atlantic	650–710	660–730	1310–1440	28–32	
+Biola University	West	540–640	520–620	1060–1260	21–27	
+Birmingham-​Southern College 	South	520–630	510–630	1030–1260	23–29	
+Boston College	New England	650–720	670–770	1320–1490	31–34	
+Boston University	New England	650–720	680–780	1330–1500	30–33	
+Bowdoin College	New England	650–740	650–770	1300–1510	30–34	
+Bradley University	Midwest	530–640	530–660	1060–1300	22–28	
+Brandeis University	New England	630–720	650–780	1280–1500	29–33	
+Brigham Young University, ​Provo	West	600–710	590–710	1190–1420	26–31	
+Brown University	New England	700–760	720–790	1420–1550	32–35	
+Bryn Mawr College	Mid-Atlantic	660–730	640–770	1300–1500	28–33	
+Bucknell University	Mid-Atlantic	620–690	630–730	1250–1420	28–32	
+Butler University	Midwest	590–660	580–670	1170–1330	25–30	
+Cal Poly, Pomona	West	520–610	510–640	1030–1250	19–27	
+Cal Poly, ​San Luis Obispo	West	620–700	620–730	1240–1430	26–32	
+California Institute of Technology	West	740–780	790–800	1530–1580	35–36	
+California Lutheran University	West	540–620	520–610	1060–1230	21–27	
+California State University, Fresno	West	450–560	440–550	890–1110	16–22	
+California State University, Fullerton	West	520–610	520–610	1040–1220	19–24	
+California State University, Long Beach	West	520–620	520–630	1040–1250	20–26	
+California State University, Los Angeles	West	450–540	440–540	890–1080	15–20	
+California State University, Monterey Bay	West	480–590	480–570	960–1160	17–23	
+California State University, Northridge	West	460–570	550–550	1010–1120	17–22	
+Carleton College	Midwest	670–750	680–780	1350–1530	31–34	
+Carnegie Mellon University	Mid-Atlantic	700–750	750–800	1450–1550	33–35	
+Carroll College	West	540–640	530–630	1070–1270	22–28	
+Case Western Reserve University	Midwest	650–730	700–790	1350–1520	30–34	
+Centre College	South	590–705	600–715	1190–1420	27–32	
+Chapman University	West	600–680	590–680	1190–1360	25–30	
+Christopher Newport University	South	570–650	540–630	1110–1280	23–28	
+Claremont McKenna College	West	670–730	680–770	1350–1500	31–34	
+Clark University	New England	610–700	590–690	1200–1390	28–31	
+Clarkson University	Mid-Atlantic	560–650	580–680	1140–1330	24–29	
+Clemson University	South	610–690	610–710	1220–1400	27–32	
+Coe College	Midwest	530–650	540–680	1070–1330	22–28	
+Colby College	New England	670–740	670–760	1340–1500	31–33	
+Colgate University	Mid-Atlantic	650–730	670–780	1320–1510	31–34	
+College of Charleston	South	550–640	520–610	1070–1250	22–28	
+College of New Jersey	Mid-Atlantic	580–670	580–680	1160–1350	25–30	
+College of St. Benedict	Midwest	530–630	480–590	1010–1220	22–28	
+College of the Holy Cross	New England	640–710	640–710	1280–1420	28–32	
+College of William & Mary	South	660–730	650–760	1310–1490	30–33	
+College of Wooster	Midwest	570–680	560–690	1130–1370	25–30	
+Colorado College	West	650–720	650–750	1300–1470	29–33	
+Colorado School of Mines	West	630–710	660–740	1290–1450	28–33	
+Colorado State University	West	540–640	530–640	1070–1280	23–28	
+Columbia University	Mid-Atlantic	720–780	730–800	1450–1580	32–35	
+Concordia College, ​Moorhead	Midwest	N/A	N/A	N/A	22–28	
+Connecticut College	New England	650–710	640–720	1290–1430	30–32	
+Cornell College	Midwest	540–670	540–650	1080–1320	23–30	
+Cornell University	Mid-Atlantic	680–750	710–790	1390–1540	32–34	
+Creighton University	Midwest	580–670	570–680	1150–1350	24–30	
+CUNY, ​Baruch College	Mid-Atlantic	590–670	630–720	1220–1390	N/A	
+Dartmouth College	New England	700–770	720–790	1420–1560	31–35	
+Davidson College	South	640–720	650–730	1290–1450	29–33	
+Denison University	Midwest	600–690	600–690	1200–1380	28–31	
+DePaul University	Midwest	550–670	530–640	1080–1310	22–28	
+DePauw University	Midwest	560–660	560–680	1120–1340	23–29	
+Dickinson College	Mid-Atlantic	610–690	590–700	1200–1390	27–31	
+Drake University	Midwest	580–680	560–680	1140–1360	24–30	
+Drew University	Mid-Atlantic	570–650	540–660	1110–1310	25–30	
+Drexel University	Mid-Atlantic	580–670	590–710	1170–1380	25–30	TF
+Drury University	Midwest	N/A	N/A	N/A	23–28	
+Duke University	South	680–780	710–800	1390–1580	31–35	
+Duquesne University	Mid-Atlantic	580–640	560–640	1140–1280	24–29	
+Earlham College	Midwest	570–690	590–690	1160–1380	26–31	
+Elmhurst College	Midwest	500–590	490–620	990–1210	20–26	
+Elon University	South	580–670	570–660	1150–1330	25–30	
+Embry-Riddle Aeronautical Univ	South	540–650	540–670	1080–1320	22–28	
+Emerson College	New England	630–710	540–650	1170–1360	25–30	
+Emory University	South	660–730	690–790	1350–1520	31–34	
+Fairfield University	New England	590–660	590–660	1180–1320	25–29	
+Florida Institute of Technology	South	570–660	580–680	1150–1340	25–30	
+Florida State University	South	610–680	590–670	1200–1350	26–30	
+Fordham University	Mid-Atlantic	620–720	610–710	1230–1430	27–31	
+Franklin and Marshall College	Mid-Atlantic	620–700	640–720	1260–1420	28–32	
+Furman University	South	630–710	600–700	1230–1410	28–32	
+Gallaudet University	Mid-Atlantic	390–548	403–530	793–1078	15–20	
+George Mason University	South	570–660	550–660	1120–1320	24–30	
+George Washington University	Mid-Atlantic	640–720	640–740	1280–1460	29–32	
+Georgetown University	Mid-Atlantic	680–750	690–780	1370–1530	31–34	
+Georgia Institute of Technology	South	680–750	710–790	1390–1540	31–34	
+Gettysburg College	Mid-Atlantic	640–710	630–700	1270–1410	26–30	
+Gonzaga University	West	600–670	583–680	1183–1350	25–30	
+Goshen College	Midwest	490–620	505–590	995–1210	20–27	
+Goucher College	Mid-Atlantic	530–670	510–620	1040–1290	22–29	
+Grinnell College	Midwest	670–745	700–785	1370–1530	30–34	
+Gustavus Adolphus College	Midwest	590–680	570–680	1160–1360	23–29	
+Hamilton College	Mid-Atlantic	670–740	680–770	1350–1510	31–34	TF
+Hampden-Sydney College	South	530–640	520–630	1050–1270	21–27	
+Hampton University	South	500–570	480–550	980–1120	20–24	
+Hanover College	Midwest	540–640	530–620	1070–1260	22–27	
+Harvard University 	New England	720–780	740–800	1460–1580	33–35	
+Harvey Mudd College	West	720–760	770–800	1490–1560	34–35	
+Haverford College	Mid-Atlantic	680–750	690–780	1370–1530	32–34	
+Hendrix College	South	560–710	540–700	1100–1410	24–29	
+High Point University	South	530–620	520–620	1050–1240	21–27Hillsdale College	Midwest	655–740	620–725	1275–1465	29–32	
+Hobart and William Smith Colleges	Mid-Atlantic	610–680	593–680	1203–1360	27–30	
+Hofstra University	Mid-Atlantic	580–660	570–670	1150–130	24–29	
+Hollins University	South	560–660	510–620	1070–1280	24–29	
+Hope College	Midwest	570–670	540–660	1110–1330	23–29	
+Howard University	Mid-Atlantic	590–650	550–635	1140–1285	22–27	
+Humboldt State University 	West	490–610	480–570	970–1180	16–24	
+Illinois Institute of Technology	Midwest	600–680	620–720	1220–1400	26–31	
+Illinois Wesleyan University	Midwest	570–660	550–665	1120–1325	24–29	
+Indiana University, ​Bloomington	Midwest	580–670	570–690	1150–1360	25–31	
+Iowa State University	Midwest	548–682	544–652	1092–1334	22–28	
+Ithaca College	Mid-Atlantic	590–670	570–668	1160–1338	25–30	
+James Madison University	South	570–650	550–640	1120–1290	23–28	
+John Brown University	South	550–680	530–630	1080–1310	24–29	
+Johns Hopkins University	Mid-Atlantic	720–780	740–800	1460–1580	33–35	
+Kalamazoo College	Midwest	590–690	550–680	1140–1370	24–31	
+Kenyon College	Midwest	640–730	640–740	1280–1470	29–33	
+Knox College	Midwest	550–670	540–680	1090–1350	23–31	
+Lafayette College	Mid-Atlantic	620–700	630–735	1250–1435	27–32	
+Lake Forest College	Midwest	N/A	N/A	N/A	24–29	
+Lawrence University	Midwest	610–710	600–740	1210–1450	25–32	
+Lehigh University	Mid-Atlantic	620–690	650–760	1270–1450	29–33	
+Lewis & Clark College	West	640–710	590–680	1230–1390	27–31	
+Lipscomb University	South	540–670	520–660	1060–1330	23–29	
+Louisiana State Univ, ​Baton Rouge	South	540–640	530–650	1070–1290	23–29	
+Loyola Marymount University	West	610–690	600–700	1210–1390	27–31	
+Loyola University Chicago	Midwest	570–660	550–650	1120–1310	25–30	
+Loyola University Maryland	Mid-Atlantic	580–660	560–660	1140–1320	25–30	
+Loyola University New Orleans	South	550–640	510–600	1060–1240	22–28	
+Luther College	Midwest	510–660	540–650	1050–1310	23–29	
+Macalester College	Midwest	650–730	660–770	1310–1500	29–33	
+Marist College	Mid-Atlantic	590–660	550–660	1140–1320	24–29	
+Marquette University	Midwest	580–660	570–660	1150–1320	24–29	
+Massachusetts Institute of Technology	New England	720–770	780–800	1500–1570	34–36	
+Mercer University	South	600–670	580–670	1180–1340	25–30	
+Miami University, ​Oxford	Midwest	590–670	610–710	1200–1380	26–31	
+Michigan State University	Midwest	560–650	550–660	1110–1310	23–29	
+Michigan Technological University	Midwest	580–670	590–690	1170–1360	24–30	
+Middlebury College	New England	660–730	670–770	1330–1500	31–34	TF 
+Mills College	West	513–640	495–600	1008–1240	21–29	
+Millsaps College	South	560–660	550–660	1110–1320	22–28	
+Milwaukee School of Engineering	Midwest	578–670	610–700	1188–1370	25–30	
+Mississippi State University	South	540–660	530–670	1070–1330	22–29	
+Missouri University of Sci & Tech	Midwest	520–640	580–700	1100–1340	25–31	
+Morehouse College	South	480–590	470–570	950–1160	18–23	
+Mount Holyoke College	New England	640–720	650–780	1290–1500	29–32	
+Muhlenberg College	Mid-Atlantic	590–680	580–680	1170–1360	26–30	
+New College of Florida	South	630–720	590–700	1220–1420	26–31	
+New Jersey Institute of Technology	Mid-Atlantic	580–670	610–710	1190–1380	25–30	
+New School	Mid-Atlantic	530–660	480–620	1010–1280	24–29	
+New York University	Mid-Atlantic	650–720	660–790	1310–1510	29–34	TF
+North Carolina State Univ, ​Raleigh	South	620–680	630–710	1250–1390	27–31	
+Northeastern University	New England	670–750	690–790	1360–1540	32–34	
+Northwestern University	Midwest	700–760	730–790	1430–1550	33–35	
+Oberlin College	Midwest	650–740	630–750	1280–1490	29–31	
+Occidental College	West	640–710	630–740	1270–1450	28–32	
+Ohio State University, ​Columbus	Midwest	590–690	650–760	1240–1450	27–32	
+Ohio University	Midwest	540–640	530–630	1070–1270	21–26	
+Ohio Wesleyan University	Midwest	660–740	640–760	1300–1500	29–33	*
+Oklahoma State University	South	540–640	520–640	1060–1280	22–28	
+Oregon State University	West	540–650	530–650	1070–1300	21–28	
+Pacific Lutheran University	West	540–640	530–630	1070–1270	20–28	
+Penn State, ​University Park	Mid-Atlantic	580–660	580–700	1160–1360	25–30	
+Pepperdine University	West	610–690	610–730	1220–1420	26–32	
+Pitzer College	West	670–730	670–760	1340–1490	30–33	
+Point Loma Nazarene University	West	580–650	560–650	1140–1300	24–29	
+Pomona College	West	700–760	700–780	1400–1540	31–34	
+Pratt Institute	Mid-Atlantic	530–620	570–700	1100–1320	26–30	
+Presbyterian College (SC)	South	510–620	510–630	1020–1250	21–27	
+Princeton University 	Mid-Atlantic	710–770	730–800	1440–1570	32–35	
+Providence College	New England	610–670	600–690	1210–1360	26–30	
+Purdue University, ​West Lafayette	Midwest	590–680	590–730	1180–1410	25–31	
+Queens University of Charlotte	South	520–618	513–600	1033–1218	21–26	
+Quinnipiac University	New England	550–630	530–630	1080–1260	23–27	
+Randolph-Macon College	South	540–630	510–600	1050–1230	21–27	
+Reed College	West	670–750	640–770	1310–1520	30–33	
+Rensselaer Polytechnic Institute	Mid-Atlantic	640–720	690–780	1330–1500	29–33	
+Rhode Island School of Design	New England	570–660	560–710	1130–1370	25–31	
+Rhodes College	South	630–700	610–710	1240–1410	28–31	
+Rice University	South	700–760	750–800	1450–1560	33–35	
+Ripon College	Midwest	520–610	520–650	1040–1260	20–26	
+Rochester Institute of Technology	Mid-Atlantic	590–680	600–700	1190–1380	26–32	
+Rollins College	South	605–680	590–670	1195–1350	25–30	
+Rutgers University, ​New Brunswick	Mid-Atlantic	590–680	600–730	1190–1410	25–31	
+Rutgers University, ​Newark	Mid-Atlantic	510–590	510–600	1020–1190	19–24	
+Saint Louis University	Midwest	590–690	580–700	1170–1390	25–31	
+Samford University	South	552–650	520–620	1072–1270	23–29	
+San Diego State University	West	560–650	550–650	1110–1300	22–28	
+San Francisco State University	West	480–590	470–570	950–1160	17–23	
+San Jose State University	West	520–620	520–640	1040–1260	19–26	
+Santa Clara University	West	630–710	640–730	1270–1440	28–32	
+Sarah Lawrence College	Mid-Atlantic	650–730	590–680	1240–1410	27–31	
+Scripps College	West	660–740	640–740	1300–1480	30–33	
+Seattle University	West	570–660	560–660	1130–1320	24–30	
+Seton Hall University	Mid-Atlantic	570–640	570–640	1140–1280	24–28	
+Sewanee—​University of the South	South	610–700	590–690	1200–1390	25–31	
+Siena College	Mid-Atlantic	540–630	530–640	1070–1270	22–28	
+Simmons College	New England	580–660	550–650	1130–1310	24–29	
+Skidmore College	Mid-Atlantic	613–700	610–700	1223–1400	27–31	
+Smith College	New England	670–750	670–770	1340–1520	31–34	
+Soka University of America	West	570–670	610–740	1180–1410	25–30	
+Southern Methodist University	South	630–710	650–750	1280–1460	29–33	
+Southwestern University	South	580–680	550–650	1130–1330	23–29	
+Spelman College	South	560–630	520–590	1080–1220	22–26	
+St. John Fisher College	Mid-Atlantic	540–620	540–630	1080–1250	22–26	
+St. John’s College Annapolis	Mid-Atlantic	630–710	650–740	1280–1450	26–32	
+St. John’s University (NY)	Mid-Atlantic	540–620	520–630	1060–1250	22–29	
+St. Lawrence University	Mid-Atlantic	590–670	590–680	1180–1350	26–30	
+St. Mary’s College (IN)	Midwest	530–630	500–620	1030–1250	23–29	
+St. Mary’s College of California	West	540–630	520–620	1060–1250	22–27	
+St. Mary’s College of Maryland	Mid-Atlantic	540–650	520–640	1060–1290	23–28	
+St. Michael’s College	New England	580–670	560–650	1140–1320	25–29	
+St. Olaf College	Midwest	600–700	590–710	1190–1410	25–32	
+Stanford University	West	700–770	720–800	1420–1570	32–35	
+Stetson University	South	570–660	550–640	1120–1300	23–29	
+Stevens Institute of Technology	Mid-Atlantic	640–710	680–760	1320–1470	29–33	
+Stonehill College	New England	570–650	560–650	1130–1300	24–29	
+Stony Brook University, ​SUNY	Mid-Atlantic	600–680	630–740	1230–1420	26–31	
+SUNY, ESF	Mid-Atlantic	560–660	560–650	1120–1310	23–29	
+SUNY, ​Geneseo	Mid-Atlantic	560–650	560–650	1120–1300	24–28
+Susquehanna University	Mid-Atlantic	540–630	530–610	1070–1240	22–28	
+Swarthmore College	Mid-Atlantic	680–760	700–790	1380–1550	31–34	
+Syracuse University	Mid-Atlantic	580–670	580–680	1160–1350	25–30	
+Taylor University	Midwest	540–660	540–640	1080–1300	22–29	
+Temple University	Mid-Atlantic	570–660	560–660	1130–1320	24–30	
+Texas A&M Univ, ​College Station	South	580–680	590–700	1170–1380	25–31	
+Texas Christian University	South	580–660	570–683	1150–1343	26–30	
+Texas Lutheran University	South	480–580	490–570	970–1150	19–24	
+The Catholic University of America	Mid-Atlantic	580–660	560–660	1140–1320	24–30	
+The Citadel	South	520–610	510–610	1030–1220	20–25	
+The Cooper Union	Mid-Atlantic	650–740	660–790	1310–1530	28–34	
+Thomas Aquinas College	West	630–710	570–670	1200–1380	25–30	
+Transylvania University	South	610–690	570–670	1180–1360	25–30	
+Trinity College (Hartford)	New England	630–710	670–750	1300–1460	29–32	
+Trinity University	South	630–710	630–720	1260–1430	28–32	
+Truman State University	Midwest	610–710	580–720	1190–1430	24–30	
+Tufts University	New England	680–750	700–780	1380–1530	31–34	
+Tulane University	South	670–730	680–760	1350–1490	30–33	
+Union College (NY)	Mid-Atlantic	620–700	650–730	1270–1430	28–32	
+United States Air Force Academy	West	610–690	620–720	1230–1410	28–33	
+United States Coast Guard Academy	New England	570–670	610–670	1180–1340	26–31	
+United States Military Academy	Mid-Atlantic	590–690	600–710	1190–1400	23–28	
+United States Naval Academy	Mid-Atlantic	620–760	620–760	1240–1520	27–32	
+University at Albany, ​SUNY	Mid-Atlantic	550–630	550–630	1100–1260	22–27	
+University at Buffalo, ​SUNY	Mid-Atlantic	570–650	590–680	1160–1330	24–29	
+University of Alabama	South	530–640	520–640	1050–1280	23–32	
+University of Arizona	West	540–650	530–660	1070–1310	21–28	
+University of Arkansas	South	560–650	540–640	1100–1290	23–29	
+University of California, Merced	West	500–600	500–590	1000–1190	18–24	
+University of California, Riverside	West	560–650	550–680	1110–1330	23–29	
+University of California, ​Berkeley	West	640–740	660–790	1300–1530	28–34	
+University of California, ​Davis	West	570–670	580–740	1150–1410	25–31	
+University of California, ​Irvine	West	580–690	600–750	1180–1440	N/A	
+University of California, ​Los Angeles	West	640–740	630–780	1270–1520	28–34	
+University of California, ​San Diego	West	620–700	630–770	1250–1470	26–33	
+University of California, ​Santa Barbara	West	620–710	610–770	1230–1480	26–32	
+University of California, ​Santa Cruz	West	580–680	590–720	1170–1400	24–31	
+University of Chicago	Midwest	730–780	750–800	1480–1580	32–35	
+University of Cincinnati	Midwest	580–670	580–700	1160–1370	24–29	
+University of Colorado, ​Boulder	West	580–670	570–690	1150–1360	25–30	
+University of Connecticut	New England	600–690	610–730	1210–1420	26–31	
+University of Dallas	South	570–680	550–660	1120–1340	23–29	
+University of Dayton	Midwest	570–610	560–610	1130–1220	24–27	
+University of Delaware	Mid-Atlantic	590–670	580–680	1170–1350	25–30	*
+University of Denver	West	590–690	580–680	1170–1370	26–31	
+University of Florida	South	640–710	640–730	1280–1440	27–32	
+University of Georgia	South	630–700	610–710	1240–1410	27–32	
+University of Hawaii at Manoa	West	530–620	525–620	1055–1240	20–25	
+University of Illinois, ​Chicago	Midwest	510–610	510–610	1020–1220	21–27	
+University of Illinois, ​Urbana–Champaign	Midwest	600–700	620–780	1220–1480	26–32	
+University of Iowa	Midwest	560–660	560–670	1120–1330	23–28	
+University of Kansas	Midwest	N/A	N/A	N/A	23–29	
+University of Kentucky	South	550–650	530–650	1080–1300	23–29	
+University of La Verne	West	520–600	510–600	1030–1200	20–25	
+University of Mary Washington	South	540–649	510–620	1050–1269	22–29	
+University of Maryland, ​College Park	Mid-Atlantic	640–720	650–760	1290–1480	28–33	
+University of Massachusetts, ​Amherst	New England	600–680	600–710	1200–1390	26–31	
+University of Miami	South	620–690	630–740	1250–1430	29–32	
+University of Michigan, ​Ann Arbor	Midwest	660–730	670–780	1330–1510	30–34	
+University of Minnesota, ​Twin Cities	Midwest	620–710	650–770	1270–1480	26–31	
+University of Mississippi	South	550–640	520–650	1070–1290	22–29	
+University of Missouri	Midwest	560–640	530–650	1090–1290	23–29	
+University of N Carolina, ​Chapel Hill	South	640–720	630–750	1270–1470	27–33	
+University of N Carolina, ​Wilmington	South	590–660	600–660	1190–1320	23–27	
+University of Nebraska, ​Lincoln	Midwest	570–680	560–680	1130–1360	22–29	
+University of New Hampshire	New England	550–640	540–640	1090–1280	23–28	
+University of Notre Dame	Midwest	690–760	710–790	1400–1550	33–35	
+University of Oklahoma	South	580–670	560–680	1140–1350	23–29	
+University of Oregon	West	550–650	530–640	1080–1290	22–28	
+University of Pennsylvania	Mid-Atlantic	700–760	740–800	1440–1560	32–35	
+University of Pittsburgh	Mid-Atlantic	630–700	640–730	1270–1430	27–32	
+University of Portland	West	580–660	560–660	1140–1320	23–28	
+University of Puget Sound	West	580–680	550–670	1130–1350	25–30	
+University of Redlands	West	540–630	530–620	1070–1250	23–28	
+University of Richmond	South	640–710	650–750	1290–1460	30–33	
+University of Rochester	Mid-Atlantic	630–710	710–790	1340–1500	29–34	
+University of San Diego	West	600–670	590–690	1190–1360	25–30	
+University of San Francisco	West	560–640	540–650	1100–1290	22–28	
+University of South Carolina	South	600–670	590–690	1190–1360	25–30	
+University of South Florida	South	590–660	580–670	1170–1330	25–29	
+University of Southern California	West	660–740	690–790	1350–1530	30–34	
+University of St. Thomas (MN)	Midwest	560–660	550–670	1110–1330	24–29	
+University of Tennessee	South	580–660	570–670	1150–1330	25–31	
+University of Texas, ​Austin	South	620–720	610–760	1230–1480	27–33	
+University of Texas, ​Dallas	South	600–700	620–740	1220–1440	25–32	
+University of the Pacific	West	560–660	560–690	1120–1350	22–30	
+University of Tulsa	South	590–720	560–720	1150–1440	25–32	
+University of Utah	West	570–670	560–680	1130–1350	22–29	
+University of Vermont	New England	600–680	580–680	1180–1360	26–31	
+University of Virginia	South	660–730	670–770	1330–1500	30–34	
+University of Washington	West	600–700	620–760	1220–1460	27–32	
+University of Wisconsin, ​Madison	Midwest	630–700	670–780	1300–1480	27–32	
+Ursinus College	Mid-Atlantic	580–660	560–660	1140–1320	23–28	
+Valparaiso University	Midwest	540–630	530–640	1070–1270	23–29	
+Vanderbilt University	South	700–760	750–800	1450–1560	33–35	
+Vassar College	Mid-Atlantic	680–740	690–770	1370–1510	31–33	
+Villanova University	Mid-Atlantic	640–710	660–760	1300–1470	30–33	
+Virginia Commonwealth University	South	556–672	520–620	1076–1292	21–28	
+Virginia Military Institute	South	560–660	540–650	1100–1310	24–30	
+Virginia Tech 	Mid-Atlantic	590–670	590–690	1180–1360	25–30	
+Wabash College	Midwest	550–650	550–680	1100–1330	23–28	
+Wake Forest University	South	650–710	660–760	1310–1470	29–33	
+Washington and Jefferson College	Mid-Atlantic	570–660	560–660	1130–1320	23–29	
+Washington and Lee University	South	670–730	678–760	1348–1490	31–34	
+Washington College	Mid-Atlantic	550–650	530–620	1080–1270	22–29	
+Washington State University	West	510–610	510–600	1020–1210	20–26	
+Washington University in St. Louis	Midwest	710–770	760–800	1470–1570	32–35	
+Wellesley College	New England	670–740	660–780	1330–1520	30–34	
+Wesleyan University	New England	660–740	660–760	1320–1500	30–34	
+Westmont College	West	570–690	540–680	1110–1370	23–33	
+Wheaton College (IL)	Midwest	620–710	590–710	1210–1420	27–32	
+Whitman College	West	640–720	640–720	1280–1440	29–32	
+Whittier College	West	510–620	500–600	1010–1220	21–27	
+Willamette University	West	600–690	570–660	1170–1350	25–30	
+Williams College	New England	710–760	700–790	1410–1550	32–35	
+Wofford College	South	570–660	550–650	1120–1310	24–30	
+Worcester Polytechnic Institute	New England	630–700	670–750	1300–1450	29–33	
+Xavier University	Midwest	540–630	530–620	1070–1250	22–28	
+Yale University	New England	720–770	730–790	1450–1560	33–35	
+Yeshiva University	Mid-Atlantic	580–700	560–700	1140–1400	22–30	
