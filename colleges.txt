@@ -117,7 +117,8 @@ Harvard University 	New England	720–780	740–800	1460–1580	33–35
 Harvey Mudd College	West	720–760	770–800	1490–1560	34–35	
 Haverford College	Mid-Atlantic	680–750	690–780	1370–1530	32–34	
 Hendrix College	South	560–710	540–700	1100–1410	24–29	
-High Point University	South	530–620	520–620	1050–1240	21–27Hillsdale College	Midwest	655–740	620–725	1275–1465	29–32	
+High Point University	South	530–620	520–620	1050–1240	21–27
+Hillsdale College	Midwest	655–740	620–725	1275–1465	29–32	
 Hobart and William Smith Colleges	Mid-Atlantic	610–680	593–680	1203–1360	27–30	
 Hofstra University	Mid-Atlantic	580–660	570–670	1150–130	24–29	
 Hollins University	South	560–660	510–620	1070–1280	24–29	
