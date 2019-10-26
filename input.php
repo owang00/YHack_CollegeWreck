@@ -9,7 +9,7 @@
 		$score = $_POST['score'];
 		$message2 = "Success! Your score is : ".$score;
 		
-		header("Location:https://owang00.github.io/results/");
+		header("Location:https://owang00.github.io/results.html");
 		/*
 		if(true) {
 			$testMessage = "Reached this step. Executing python file for FFEMPG.";
