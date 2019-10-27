@@ -1,9 +1,9 @@
-#This is my first Python program since high school.
+#This is my first Python program since high school.hi
 import os
 
-gpa = input()
-scoreType = input()
-score = int(input())
+gpa = sys.argv[1]
+scoreType = sys.argv[3]
+score = int(sys.argv[4])
 
 collegeFile = open('colleges.txt')
 collegeContent = collegeFile.readlines()

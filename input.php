@@ -8,16 +8,11 @@
 		$message1 = "Success! The type of testType : ".$testType;
 		$score = $_POST['score'];
 		$message2 = "Success! Your score is : ".$score;
-		
-		
-		/*
-		if(true) {
-			$testMessage = "Reached this step. Executing python file for FFEMPG.";
-			
-			$output = shell_exec('python3 downloader.py '.escapeshellarg($ESN).' '.escapeshellarg($numberOfFrame).' '.escapeshellarg($start).' '.escapeshellarg($end).' '.escapeshellarg($timelapseType).' '.escapeshellarg($frameType) );
-		}*/
 
-		# header("Location:https://owang00.github.io/results.html");
+		$output = shell_exec('python3 parser.py '.escapeshellarg($GPA).' '.escapeshellarg($testType).' '.escapeshellarg($score));
+		header("Location:https://owang00.github.io/results.html");
 	}
-	header("Location:https://owang00.github.io/results.html");
+	else{
+		$errorMessage = "Please fill out the form correctly."
+	}
 ?>
