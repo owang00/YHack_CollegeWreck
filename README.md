@@ -1,1 +1,1 @@
-
+Project for YHack 2019. Our project is a generator that looks at your scores and GPA to come up with schools that are "safety" (good to likely chance of admission), "target" (reasonable chance of admission), and "reach" (schools that are usually unlikely to get in but worth trying.) This is highly useful for students who are looking to apply to colleges and cannot decide. 
