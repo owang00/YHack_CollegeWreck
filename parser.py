@@ -1,6 +1,5 @@
 #This is my first Python program since high school.
 import os
-#print('Hello world!')
 
 gpa = input()
 scoreType = input()
@@ -12,16 +11,21 @@ cc = {}
 i = 0
 
 for college in collegeContent:
-   # print(college)
-    #college.split('\t')
     cc[i] = college.split('\t')
     i+=1
 
+writeFile = open('results.html', 'w')
 
-#print(cc[0][0])
-#c = cc[0]
-#print(c[0])
-print('Safety:\n')
+writeFile.write('''<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <title>College Wrecks</title>
+      <meta charset="utf-8">
+   </head>
+   <body>
+      <p>''')     #Write your table stuff after <p>
+
+writeFile.write('<br>Safety:<br>')
 for element in cc:
     if(scoreType.lower() == 'sat'):
         string = cc[element][4]
@@ -33,9 +37,9 @@ for element in cc:
         lo = int(string[:dash])
         mid = (lo+up)/2
         if(score >= up + (up - lo)/4):
-            print('*'+cc[element][0]+'\n')
+            writeFile.write('*'+cc[element][0]+'<br>')
 
-print('Target:\n')
+writeFile.write('<br><strong>Target:</strong><br>')
 for element in cc:
     if(scoreType.lower() == 'sat'):
         string = cc[element][4]
@@ -47,9 +51,9 @@ for element in cc:
         lo = int(string[:dash])
         mid = (lo+up)/2
         if(score >= mid + (up - lo)/4 and score < up + (up - lo)/4):
-            print('*'+cc[element][0]+'\n')
+            writeFile.write('*'+cc[element][0]+'<br>')
     
-print('Reaches')
+writeFile.write('<br><strong>Reaches:</strong><br>')
 for element in cc:
     if(scoreType.lower() == 'sat'):
         string = cc[element][4]
@@ -61,7 +65,14 @@ for element in cc:
         lo = int(string[:dash])
         mid = (lo+up)/2
         if(score < mid + (up - lo)/4):
-            print('*'+cc[element][0]+'\n')
+            writeFile.write('*'+cc[element][0]+'<br>')
+
+writeFile.write('''      </p>
+   </body>
+</html>''')
+
+collegeFile.close()
+writeFile.close()
 
 
     
