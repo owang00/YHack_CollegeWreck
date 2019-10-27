@@ -1,7 +1,5 @@
 <?php
-	# ini_set('display_errors', 1);
-
-	if(isset($_POST['SubmitButton'])) { //check if form was submitted
+	#if(isset($_POST['SubmitButton'])) { //check if form was submitted
 		$GPA = $_POST['GPA']; //get input text
 		$message = "Success! Your GPA is : ".$GPA; 
 		$testType = $_POST['testType'];
@@ -11,5 +9,5 @@
 
 		$output = shell_exec('python3 parser.py '.escapeshellarg($GPA).' '.escapeshellarg($testType).' '.escapeshellarg($score));
 		header("Location:/results.html");
-	}
+	#}
 ?>
