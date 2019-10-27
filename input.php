@@ -12,7 +12,4 @@
 		$output = shell_exec('python3 parser.py '.escapeshellarg($GPA).' '.escapeshellarg($testType).' '.escapeshellarg($score));
 		header("Location:https://owang00.github.io/results.html");
 	}
-	else{
-		$errorMessage = "Please fill out the form correctly."
-	}
 ?>
