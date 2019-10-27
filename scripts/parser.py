@@ -1,11 +1,13 @@
-#This is my first Python program since high school.hi
+#! python3
+#parse college text file and writes to htm
 import os
 import sys
-gpa = sys.argv[1]
-scoreType = sys.argv[2]
-score = int(sys.argv[3])
 
-collegeFile = open('colleges.txt')
+gpa = input()
+scoreType = input()
+score = int(input())
+
+collegeFile = open('..\\colleges.txt')
 collegeContent = collegeFile.readlines()
 cc = {}
 i = 0
@@ -14,7 +16,7 @@ for college in collegeContent:
     cc[i] = college.split('\t')
     i+=1
 
-writeFile = open('results.html', 'w')
+writeFile = open('..\\results.html', 'w')
 
 writeFile.write('''<!DOCTYPE html>
 <html lang="en">
