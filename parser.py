@@ -2,8 +2,8 @@
 import os
 
 gpa = sys.argv[1]
-scoreType = sys.argv[3]
-score = int(sys.argv[4])
+scoreType = sys.argv[2]
+score = int(sys.argv[3])
 
 collegeFile = open('colleges.txt')
 collegeContent = collegeFile.readlines()
