@@ -2,9 +2,9 @@
 import os
 #print('Hello world!')
 
-gpa = input()
-scoreType = input()
-score = int(input())
+gpa = sys.argv[1]
+scoreType = sys.argv[3]
+score = int(sys.argv[4])
 
 collegeFile = open('colleges.txt')
 collegeContent = collegeFile.readlines()
