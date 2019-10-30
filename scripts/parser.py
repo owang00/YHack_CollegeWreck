@@ -1,5 +1,5 @@
 #! python3
-#parse college text file and writes to htm
+#parses college "database" and writes results to results.html
 import os
 import sys
 
